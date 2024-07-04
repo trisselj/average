@@ -1,3 +1,7 @@
+# Author: Jake Trissel
+# Github Username: trisselj
+# Date: 06/26/2024
+# Description: Finds the average of numbers in groups of 5
 #Entering of numbers to be averaged
 num1 = input("Please input the first number you would like to average")
 num2 = input("Please input the second number you would like to average")
