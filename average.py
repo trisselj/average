@@ -1,6 +1,6 @@
 # Author: Jake Trissel
 # Github Username: trisselj
-# Date: 06/26/2024
+# Date: 07/03/2024
 # Description: Finds the average of numbers in groups of 5
 
 #Entering of numbers to be averaged
